@@ -1,0 +1,2 @@
+Git diff practice
+Another line

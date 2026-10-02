@@ -1,3 +1,0 @@
-I am learning Git
-I am learning GitHub
-I understand git diff

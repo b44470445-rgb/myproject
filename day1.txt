@@ -1,1 +1,4 @@
 This is a data for day 1
+I am practicing GitHub Issues
+
+
